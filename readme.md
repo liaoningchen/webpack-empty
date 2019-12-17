@@ -25,6 +25,6 @@ npm install html-webpack-plugin --save-dev
 ```
 
 # 7.新建webpack配置文件
-webpack-config.js 配置规则
+webpack.config.js 配置规则
 
 # 8.新建 .babelrc 文件 (webpack 转化es7,es6时使用的映射文件)
